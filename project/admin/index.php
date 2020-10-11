@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 include "../connection.php";
 ?>
 <!DOCTYPE html>
@@ -95,9 +97,10 @@ if(isset($_POST["submit1"]))
     }
     else
     {
+        $_SESSION["admin"]=$username;
         ?>
         <script type="text/javascript">
-            window.location="demo.php";
+            window.location="exam_category.php";
         </script>
         <?php
     }

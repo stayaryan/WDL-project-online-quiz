@@ -78,10 +78,10 @@ if(isset($_POST["submit1"]))
         else
         {
             
-
+            $_SESSION["username"]=$_POST["username"];
          ?>
            <script type="text/javascript">
-                window.location = "/project/demo.php";
+                window.location = "select_exam.php";
             </script> 
          <?php
         }

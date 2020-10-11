@@ -50,16 +50,16 @@
             <div id="main-menu" class="main-menu collapse navbar-collapse">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="index.html"> <i class="menu-icon fa fa-dashboard"></i>Dashboard </a>
-                    </li>
-                    <li>
                         <a href="exam_category.php"> <i class="menu-icon fa fa-dashboard"></i>Add and edit exam</a>
                     </li>
                     <li>
                         <a href="add_edit_exam_questions.php"> <i class="menu-icon fa fa-dashboard"></i>Add and edit questions</a>
                     </li>
                     <li>
-                        <a href="index.html"> <i class="menu-icon fa fa-close"></i>LogOut </a>
+                        <a href="old-exam-results.php"> <i class="menu-icon fa fa-dashboard"></i>All exam results</a>
+                    </li>
+                    <li>
+                        <a href="logout.php"> <i class="menu-icon fa fa-close"></i>LogOut </a>
                     </li>
 
                   </ul>
@@ -87,7 +87,7 @@
                         </a>
 
                         <div class="user-menu dropdown-menu">
-                            <a class="nav-link" href="#"><i class="fa fa-power-off"></i> Logout</a>
+                            <a class="nav-link" href="logout.php"><i class="fa fa-power-off"></i> Logout</a>
                         </div>
                     </div>
 
