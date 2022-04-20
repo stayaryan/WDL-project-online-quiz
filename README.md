@@ -40,7 +40,7 @@ To run this project, install Python and/or Xampp if you wish to check the SQL co
 
 ![image](https://user-images.githubusercontent.com/61246381/164278985-fef50bbc-5c21-4ebe-a75b-ed79b27ae938.png)
 
-4.      Connecting to [XAMPP](https://www.javatpoint.com/xampp) 
+4.      Connecting to XAMPP 
 Start the Apache and [MySQL](https://www.javatpoint.com/mysql-tutorial) application through the XAMPP Control Panel. XAMPP Control Panel is a management tool that offers to supervise the actions of individual components of XAMPP. It controls each component of the text server. The user can initiate or halt discrete modules by operating upon the buttons below the "Actions" column. Control panels efficiently manage all the components of the XAMPP Package. One can use the Control Panel to determine whether Apache, MySQL, Mercury, etc. are currently in function or not. The development environment can only be used when Apache and MySQL are in running state. The XAMPP Control Panel icon exists in the system tray. It is an orange-colored icon that is visible when Panel is in running state.
 
 ![image](https://user-images.githubusercontent.com/61246381/164279405-a0446fec-2d4e-4922-ac0e-41cc2b68c5f2.png)
